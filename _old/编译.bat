@@ -1,0 +1,1 @@
+pyinstaller -F -i img\favicon.ico -w GuaXiang.py
