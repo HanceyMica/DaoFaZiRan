@@ -1,4 +1,7 @@
 # 道法自然
+
+![](https://github.com/HanceyMica/DaoFaZiRan/blob/master/_old/img/img_title.png)
+
 本程序自2019（还是2018）年受到沙雕网友启发，将程序移植至Python3环境，并制作GUI界面用以快速使用。
 现阶段该程序可直接在Windows、Linux系统下执行，由于macOS端还未进行测试，所以Mac下的运行在理论上可行。
 
